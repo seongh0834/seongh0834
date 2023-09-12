@@ -1,4 +1,4 @@
-# Halo
+# Halo 👋
 
 #### Gachon University (Department of AI/Software) 23
 #### Learning about Software Engineering 💻
