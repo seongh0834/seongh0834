@@ -1,6 +1,6 @@
 # Halo
 
-
+#### Gachon University (Department of AI/Software) 23
 #### Learning about Software Engineering 💻
 <!--
 **seongh0834/seongh0834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
